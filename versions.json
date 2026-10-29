@@ -1,6 +1,28 @@
 {
     "versions":  [
                      {
+                         "version":  "1.0.1",
+                         "title":  "Smooth Turns",
+                         "date":  "2026-10-29",
+                         "size":  "Small patch",
+                         "summary":  "Q and E now swing the camera round you like a real 3D camera, instead of sliding the picture.",
+                         "intro":  "Turning the camera used to spin a flat picture of the world and fade it into the next one, which made it hard to follow. Now the camera really orbits you: the land, the houses and the cliffs turn as solid blocks, trees and props stay standing, and the turn eases in and out before landing exactly on the next view.",
+                         "picture":  "https://raw.githubusercontent.com/ChocolateWafer1/isom-releases/main/pictures/smooth-turns.jpg",
+                         "download":  "https://github.com/ChocolateWafer1/isom-releases/releases/download/v1.0.1/Isom-1.0.1-win.zip",
+                         "bytes":  57861077,
+                         "sha256":  "35b9e87089b9220871d9817da4114f467aaafb9d86f9137cece66b9f2adaf768",
+                         "sections":  [
+                                          {
+                                              "title":  "Improved",
+                                              "items":  [
+                                                            "A real camera turn|Q and E orbit the camera around you to the next quarter turn. Houses, walls and cliffs turn as solid blocks, so you can always tell what you are looking at.",
+                                                            "Everything comes along|Trees, flowers and your wanderer stand upright as the view swings, your wanderer turns to face the right way, and lamps and lit windows keep glowing in place.",
+                                                            "No jumps|The turn eases in and out and settles exactly on the new view, with no flicker at either end."
+                                                        ]
+                                          }
+                                      ]
+                     },
+                     {
                          "version":  "1.0.0",
                          "title":  "First Steps",
                          "date":  "2026-10-29",
