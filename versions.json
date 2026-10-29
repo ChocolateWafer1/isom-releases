@@ -1,0 +1,42 @@
+{
+    "versions":  [
+                     {
+                         "version":  "1.0.0",
+                         "title":  "First Steps",
+                         "date":  "2026-10-29",
+                         "size":  "Full game",
+                         "summary":  "The first version of Isom: a whole continent to wander, dig into and build on.",
+                         "intro":  "Isom is a wandering world drawn in isometric pixel art. Every seed makes a whole continent thousands of tiles across, with mountains worn down by rain, rivers that run to the sea, lakes, forests, deserts and snow, and little villages joined by winding roads. Walk anywhere, dig anything and build whatever you like.",
+                         "picture":  "https://raw.githubusercontent.com/ChocolateWafer1/isom-releases/main/pictures/first-steps.jpg",
+                         "download":  "https://github.com/ChocolateWafer1/isom-releases/releases/download/v1.0.0/Isom-1.0.0-win.zip",
+                         "bytes":  57854988,
+                         "sha256":  "5ba3b77d8544c163183418a77be90ac9a42978b8c8f0c1d9009ccc45a49c4cd7",
+                         "sections":  [
+                                          {
+                                              "title":  "The world",
+                                              "items":  [
+                                                            "A huge continent|Each seed makes a land 8192 tiles across: mountains, valleys, rivers, lakes and coast.",
+                                                            "Thirteen kinds of land|Meadows, forests, taiga, jungle, swamp, desert, badlands, snowy peaks and more, set by rain and warmth.",
+                                                            "Villages and roads|Little towns with houses and farms, joined by roads and bridges, plus old ruins to find."
+                                                        ]
+                                          },
+                                          {
+                                              "title":  "Exploring",
+                                              "items":  [
+                                                            "Day, night and weather|Sunrises, starry nights, rain, storms, snow and fog that roll across the land.",
+                                                            "Turn the camera|Q and E swing the view round a quarter turn, and turning back puts it just as it was.",
+                                                            "Map and minimap|M opens the whole continent, with every village named."
+                                                        ]
+                                          },
+                                          {
+                                              "title":  "Building",
+                                              "items":  [
+                                                            "Dig and place|Take the land apart block by block and build anything, with an outline showing exactly where each block goes.",
+                                                            "See inside|Roofs and upper floors fade away when you step indoors, so building rooms and floors is easy.",
+                                                            "Your worlds are saved|Every world keeps what you built, and updates never touch it."
+                                                        ]
+                                          }
+                                      ]
+                     }
+                 ]
+}
