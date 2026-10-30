@@ -1,6 +1,59 @@
 {
     "versions":  [
                      {
+                         "version":  "1.1.0",
+                         "title":  "Build Anything",
+                         "date":  "2026-10-29",
+                         "size":  "Big update",
+                         "summary":  "77 new blocks with real stairs, doors and furniture, an inventory, zoomable maps, 10 save slots, full settings and sleeping in beds.",
+                         "intro":  "Building gets serious. There are dozens of new materials and shapes: stairs you walk up, doors that open as you walk in, glass, fences, ladders and furniture. A full inventory holds every block. The minimap and world map now zoom all the way from the whole land down to single tiles drawn in detail. Your worlds live in 10 save slots that are backed up and never lost, there\u0027s a full settings menu, and at night you can sleep in a bed and watch the night race by.",
+                         "picture":  "https://raw.githubusercontent.com/ChocolateWafer1/isom-releases/main/pictures/build-anything.jpg",
+                         "download":  "https://github.com/ChocolateWafer1/isom-releases/releases/download/v1.1.0/Isom-1.1.0-win.zip",
+                         "bytes":  57918392,
+                         "sha256":  "5757beda0eb53784985b5abbb98bc6e8f01dd0a73ae78849874915d660d3128e",
+                         "sections":  [
+                                          {
+                                              "title":  "New blocks",
+                                              "items":  [
+                                                            "77 of them|Oak, birch, pine and dark wood, red brick, marble, plaster, half-timber, tiles, coloured roofs, wool, glass, bookshelves and hay.",
+                                                            "Shapes|Slabs, stairs, roof slopes, panes, iron bars, fences, walls, beams, ladders and rugs, all cut from the blocks they match.",
+                                                            "Furniture|Tables, chairs, stools, beds, chests, barrels, crates, flower pots, torches and lanterns.",
+                                                            "Doors|Walk into a door to open it; it shuts behind you. Village houses have real doors now.",
+                                                            "Turn before placing|Press R to turn stairs, doors, chairs and logs; the preview shows how they\u0027ll sit.",
+                                                            "Grass that fits|Grass you put down takes on the biome: snowy in the snow, swampy in a swamp."
+                                                        ]
+                                          },
+                                          {
+                                              "title":  "Building",
+                                              "items":  [
+                                                            "Inventory|Tab opens every block, with tabs and search. Everything is unlimited for now, and what you dig is counted.",
+                                                            "Hotbar|Click a slot to pick it, or drag blocks onto it from the inventory.",
+                                                            "Pick block|Middle-click any block in the world to hold it.",
+                                                            "Undo|Ctrl+Z and Ctrl+Y undo and redo your building.",
+                                                            "Stairs and ladders|Walk up stairs and slabs in half steps; ladders carry you up onto the wall."
+                                                        ]
+                                          },
+                                          {
+                                              "title":  "Maps",
+                                              "items":  [
+                                                            "Zoom all the way in|Scroll on the minimap or the world map to go from the whole land down to single tiles, with trees and roofs seen from above.",
+                                                            "Markers|Right-click the world map (or press N) to drop a named, coloured marker.",
+                                                            "Compass bar|A compass along the top shows where you\u0027re facing and where your markers are.",
+                                                            "Roads, rivers and names|Drawn on both maps, along with everything you\u0027ve built."
+                                                        ]
+                                          },
+                                          {
+                                              "title":  "Saves and settings",
+                                              "items":  [
+                                                            "10 save slots|Kept in Saved Games, backed up every 10 minutes and when you quit. Updating or removing Isom never touches them, and your old worlds move in by themselves.",
+                                                            "Settings|Window and full screen, graphics, a sound mixer, rebindable controls, interface size, gameplay and accessibility options.",
+                                                            "Sleep|Right-click a bed at night to sleep: the camera rises high above and the night races by until morning.",
+                                                            "Little things|First-time tips, F1 hides the HUD, Ctrl+S saves, and the pause menu has Save and quit."
+                                                        ]
+                                          }
+                                      ]
+                     },
+                     {
                          "version":  "1.0.1",
                          "title":  "Smooth Turns",
                          "date":  "2026-10-29",
