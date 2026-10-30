@@ -1,6 +1,37 @@
 {
     "versions":  [
                      {
+                         "version":  "1.2.0",
+                         "title":  "A View From Above",
+                         "date":  "2026-10-30",
+                         "size":  "Update",
+                         "summary":  "Press V and the camera swings up overhead, so you can plan and build from above. Sleeping zooms smoothly now, and light and shadow stay on while the camera turns.",
+                         "intro":  "Building just got easier. Press V and the camera swings up over your wanderer, the same way it turns with Q and E, until you\u0027re looking straight down at the land. Every block lines up on a neat square grid, so walls run straight, rooms are easy to measure and you can see the whole shape of what you\u0027re making. Press V again and the camera swings back down. This update also smooths out the camera when you sleep, and keeps the shading on while the camera turns.",
+                         "picture":  "https://raw.githubusercontent.com/ChocolateWafer1/isom-releases/main/pictures/top-down.jpg",
+                         "download":  "https://github.com/ChocolateWafer1/isom-releases/releases/download/v1.2.0/Isom-1.2.0-win.zip",
+                         "bytes":  57932202,
+                         "sha256":  "f04a59724138badc68721683582e48b8a7424895ecac9536d5c55e922bea5463",
+                         "sections":  [
+                                          {
+                                              "title":  "Top-down view",
+                                              "items":  [
+                                                            "Press V|The camera swings up overhead in one smooth move, and back down again when you press V once more. You can change the key in Settings, Controls.",
+                                                            "Build from above|Click a square to dig it or build on it, with a preview of the block in your hand. You can reach a little further from up here too.",
+                                                            "Which way it faces|Stairs, doors and chairs show an arrow while you place them, and R still turns them.",
+                                                            "See inside|The [ and ] keys take the roof off and step through the floors, so you can lay out each one.",
+                                                            "Walk and turn|W, A, S and D walk straight up, left, down and right on the screen, and Q and E still turn the view."
+                                                        ]
+                                          },
+                                          {
+                                              "title":  "Improved",
+                                              "items":  [
+                                                            "Smooth sleep zoom|The camera no longer jitters as it pulls back when you sleep, or as it comes back in the morning.",
+                                                            "Real shading while turning|Shadows, corner shading and outlines stay on while the camera turns, instead of vanishing until it stops."
+                                                        ]
+                                          }
+                                      ]
+                     },
+                     {
                          "version":  "1.1.0",
                          "title":  "Build Anything",
                          "date":  "2026-10-29",
