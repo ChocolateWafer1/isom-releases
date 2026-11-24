@@ -1,148 +1,160 @@
 {
-    "versions":  [
-                     {
-                         "version":  "1.2.0",
-                         "title":  "A View From Above",
-                         "date":  "2026-10-30",
-                         "size":  "Update",
-                         "summary":  "Press V and the camera swings up overhead, so you can plan and build from above. Sleeping zooms smoothly now, and light and shadow stay on while the camera turns.",
-                         "intro":  "Building just got easier. Press V and the camera swings up over your wanderer, the same way it turns with Q and E, until you\u0027re looking straight down at the land. Every block lines up on a neat square grid, so walls run straight, rooms are easy to measure and you can see the whole shape of what you\u0027re making. Press V again and the camera swings back down. This update also smooths out the camera when you sleep, and keeps the shading on while the camera turns.",
-                         "picture":  "https://raw.githubusercontent.com/ChocolateWafer1/isom-releases/main/pictures/top-down.jpg",
-                         "download":  "https://github.com/ChocolateWafer1/isom-releases/releases/download/v1.2.0/Isom-1.2.0-win.zip",
-                         "bytes":  57932202,
-                         "sha256":  "f04a59724138badc68721683582e48b8a7424895ecac9536d5c55e922bea5463",
-                         "sections":  [
-                                          {
-                                              "title":  "Top-down view",
-                                              "items":  [
-                                                            "Press V|The camera swings up overhead in one smooth move, and back down again when you press V once more. You can change the key in Settings, Controls.",
-                                                            "Build from above|Click a square to dig it or build on it, with a preview of the block in your hand. You can reach a little further from up here too.",
-                                                            "Which way it faces|Stairs, doors and chairs show an arrow while you place them, and R still turns them.",
-                                                            "See inside|The [ and ] keys take the roof off and step through the floors, so you can lay out each one.",
-                                                            "Walk and turn|W, A, S and D walk straight up, left, down and right on the screen, and Q and E still turn the view."
-                                                        ]
-                                          },
-                                          {
-                                              "title":  "Improved",
-                                              "items":  [
-                                                            "Smooth sleep zoom|The camera no longer jitters as it pulls back when you sleep, or as it comes back in the morning.",
-                                                            "Real shading while turning|Shadows, corner shading and outlines stay on while the camera turns, instead of vanishing until it stops."
-                                                        ]
-                                          }
-                                      ]
-                     },
-                     {
-                         "version":  "1.1.0",
-                         "title":  "Build Anything",
-                         "date":  "2026-10-29",
-                         "size":  "Big update",
-                         "summary":  "77 new blocks with real stairs, doors and furniture, an inventory, zoomable maps, 10 save slots, full settings and sleeping in beds.",
-                         "intro":  "Building gets serious. There are dozens of new materials and shapes: stairs you walk up, doors that open as you walk in, glass, fences, ladders and furniture. A full inventory holds every block. The minimap and world map now zoom all the way from the whole land down to single tiles drawn in detail. Your worlds live in 10 save slots that are backed up and never lost, there\u0027s a full settings menu, and at night you can sleep in a bed and watch the night race by.",
-                         "picture":  "https://raw.githubusercontent.com/ChocolateWafer1/isom-releases/main/pictures/build-anything.jpg",
-                         "download":  "https://github.com/ChocolateWafer1/isom-releases/releases/download/v1.1.0/Isom-1.1.0-win.zip",
-                         "bytes":  57918392,
-                         "sha256":  "5757beda0eb53784985b5abbb98bc6e8f01dd0a73ae78849874915d660d3128e",
-                         "sections":  [
-                                          {
-                                              "title":  "New blocks",
-                                              "items":  [
-                                                            "77 of them|Oak, birch, pine and dark wood, red brick, marble, plaster, half-timber, tiles, coloured roofs, wool, glass, bookshelves and hay.",
-                                                            "Shapes|Slabs, stairs, roof slopes, panes, iron bars, fences, walls, beams, ladders and rugs, all cut from the blocks they match.",
-                                                            "Furniture|Tables, chairs, stools, beds, chests, barrels, crates, flower pots, torches and lanterns.",
-                                                            "Doors|Walk into a door to open it; it shuts behind you. Village houses have real doors now.",
-                                                            "Turn before placing|Press R to turn stairs, doors, chairs and logs; the preview shows how they\u0027ll sit.",
-                                                            "Grass that fits|Grass you put down takes on the biome: snowy in the snow, swampy in a swamp."
-                                                        ]
-                                          },
-                                          {
-                                              "title":  "Building",
-                                              "items":  [
-                                                            "Inventory|Tab opens every block, with tabs and search. Everything is unlimited for now, and what you dig is counted.",
-                                                            "Hotbar|Click a slot to pick it, or drag blocks onto it from the inventory.",
-                                                            "Pick block|Middle-click any block in the world to hold it.",
-                                                            "Undo|Ctrl+Z and Ctrl+Y undo and redo your building.",
-                                                            "Stairs and ladders|Walk up stairs and slabs in half steps; ladders carry you up onto the wall."
-                                                        ]
-                                          },
-                                          {
-                                              "title":  "Maps",
-                                              "items":  [
-                                                            "Zoom all the way in|Scroll on the minimap or the world map to go from the whole land down to single tiles, with trees and roofs seen from above.",
-                                                            "Markers|Right-click the world map (or press N) to drop a named, coloured marker.",
-                                                            "Compass bar|A compass along the top shows where you\u0027re facing and where your markers are.",
-                                                            "Roads, rivers and names|Drawn on both maps, along with everything you\u0027ve built."
-                                                        ]
-                                          },
-                                          {
-                                              "title":  "Saves and settings",
-                                              "items":  [
-                                                            "10 save slots|Kept in Saved Games, backed up every 10 minutes and when you quit. Updating or removing Isom never touches them, and your old worlds move in by themselves.",
-                                                            "Settings|Window and full screen, graphics, a sound mixer, rebindable controls, interface size, gameplay and accessibility options.",
-                                                            "Sleep|Right-click a bed at night to sleep: the camera rises high above and the night races by until morning.",
-                                                            "Little things|First-time tips, F1 hides the HUD, Ctrl+S saves, and the pause menu has Save and quit."
-                                                        ]
-                                          }
-                                      ]
-                     },
-                     {
-                         "version":  "1.0.1",
-                         "title":  "Smooth Turns",
-                         "date":  "2026-10-29",
-                         "size":  "Small patch",
-                         "summary":  "Q and E now swing the camera round you like a real 3D camera, instead of sliding the picture.",
-                         "intro":  "Turning the camera used to spin a flat picture of the world and fade it into the next one, which made it hard to follow. Now the camera really orbits you: the land, the houses and the cliffs turn as solid blocks, trees and props stay standing, and the turn eases in and out before landing exactly on the next view.",
-                         "picture":  "https://raw.githubusercontent.com/ChocolateWafer1/isom-releases/main/pictures/smooth-turns.jpg",
-                         "download":  "https://github.com/ChocolateWafer1/isom-releases/releases/download/v1.0.1/Isom-1.0.1-win.zip",
-                         "bytes":  57861077,
-                         "sha256":  "35b9e87089b9220871d9817da4114f467aaafb9d86f9137cece66b9f2adaf768",
-                         "sections":  [
-                                          {
-                                              "title":  "Improved",
-                                              "items":  [
-                                                            "A real camera turn|Q and E orbit the camera around you to the next quarter turn. Houses, walls and cliffs turn as solid blocks, so you can always tell what you are looking at.",
-                                                            "Everything comes along|Trees, flowers and your wanderer stand upright as the view swings, your wanderer turns to face the right way, and lamps and lit windows keep glowing in place.",
-                                                            "No jumps|The turn eases in and out and settles exactly on the new view, with no flicker at either end."
-                                                        ]
-                                          }
-                                      ]
-                     },
-                     {
-                         "version":  "1.0.0",
-                         "title":  "First Steps",
-                         "date":  "2026-10-29",
-                         "size":  "Full game",
-                         "summary":  "The first version of Isom: a whole continent to wander, dig into and build on.",
-                         "intro":  "Isom is a wandering world drawn in isometric pixel art. Every seed makes a whole continent thousands of tiles across, with mountains worn down by rain, rivers that run to the sea, lakes, forests, deserts and snow, and little villages joined by winding roads. Walk anywhere, dig anything and build whatever you like.",
-                         "picture":  "https://raw.githubusercontent.com/ChocolateWafer1/isom-releases/main/pictures/first-steps.jpg",
-                         "download":  "https://github.com/ChocolateWafer1/isom-releases/releases/download/v1.0.0/Isom-1.0.0-win.zip",
-                         "bytes":  57854988,
-                         "sha256":  "5ba3b77d8544c163183418a77be90ac9a42978b8c8f0c1d9009ccc45a49c4cd7",
-                         "sections":  [
-                                          {
-                                              "title":  "The world",
-                                              "items":  [
-                                                            "A huge continent|Each seed makes a land 8192 tiles across: mountains, valleys, rivers, lakes and coast.",
-                                                            "Thirteen kinds of land|Meadows, forests, taiga, jungle, swamp, desert, badlands, snowy peaks and more, set by rain and warmth.",
-                                                            "Villages and roads|Little towns with houses and farms, joined by roads and bridges, plus old ruins to find."
-                                                        ]
-                                          },
-                                          {
-                                              "title":  "Exploring",
-                                              "items":  [
-                                                            "Day, night and weather|Sunrises, starry nights, rain, storms, snow and fog that roll across the land.",
-                                                            "Turn the camera|Q and E swing the view round a quarter turn, and turning back puts it just as it was.",
-                                                            "Map and minimap|M opens the whole continent, with every village named."
-                                                        ]
-                                          },
-                                          {
-                                              "title":  "Building",
-                                              "items":  [
-                                                            "Dig and place|Take the land apart block by block and build anything, with an outline showing exactly where each block goes.",
-                                                            "See inside|Roofs and upper floors fade away when you step indoors, so building rooms and floors is easy.",
-                                                            "Your worlds are saved|Every world keeps what you built, and updates never touch it."
-                                                        ]
-                                          }
-                                      ]
-                     }
-                 ]
+  "versions": [
+    {
+      "version": "1.2.0",
+      "title": "A View From Above",
+      "date": "2026-10-30",
+      "size": "Update",
+      "summary": "Press V and the camera swings up overhead, so you can plan and build from above. Sleeping zooms smoothly now, and light and shadow stay on while the camera turns.",
+      "intro": "Building just got easier. Press V and the camera swings up over your wanderer, the same way it turns with Q and E, until you're looking straight down at the land. Every block lines up on a neat square grid, so walls run straight, rooms are easy to measure and you can see the whole shape of what you're making. Press V again and the camera swings back down. This update also smooths out the camera when you sleep, and keeps the shading on while the camera turns.",
+      "picture": "https://raw.githubusercontent.com/ChocolateWafer1/isom-releases/main/pictures/top-down.jpg",
+      "download": "https://github.com/ChocolateWafer1/isom-releases/releases/download/v1.2.0/Isom-1.2.0-win.zip",
+      "bytes": 57932202,
+      "sha256": "f04a59724138badc68721683582e48b8a7424895ecac9536d5c55e922bea5463",
+      "sections": [
+        {
+          "title": "Top-down view",
+          "items": [
+            "Press V|The camera swings up overhead in one smooth move, and back down again when you press V once more. You can change the key in Settings, Controls.",
+            "Build from above|Click a square to dig it or build on it, with a preview of the block in your hand. You can reach a little further from up here too.",
+            "Which way it faces|Stairs, doors and chairs show an arrow while you place them, and R still turns them.",
+            "See inside|The [ and ] keys take the roof off and step through the floors, so you can lay out each one.",
+            "Walk and turn|W, A, S and D walk straight up, left, down and right on the screen, and Q and E still turn the view."
+          ]
+        },
+        {
+          "title": "Improved",
+          "items": [
+            "Smooth sleep zoom|The camera no longer jitters as it pulls back when you sleep, or as it comes back in the morning.",
+            "Real shading while turning|Shadows, corner shading and outlines stay on while the camera turns, instead of vanishing until it stops."
+          ]
+        }
+      ],
+      "mac": {
+        "arm64": {
+          "download": "https://github.com/ChocolateWafer1/isom-releases/releases/download/v1.2.0/Isom-1.2.0-mac-arm64.zip",
+          "bytes": 55773773,
+          "sha256": "b402a86b5aedfb13371c77f01364c7b344f83140849d7bb5dbdcb2ade067058b"
+        },
+        "x64": {
+          "download": "https://github.com/ChocolateWafer1/isom-releases/releases/download/v1.2.0/Isom-1.2.0-mac-x64.zip",
+          "bytes": 58161917,
+          "sha256": "c89a5abfc7eb8efdba76f98e618e4ee1315aeeb9772374e8fb7df30d9f929b4f"
+        }
+      }
+    },
+    {
+      "version": "1.1.0",
+      "title": "Build Anything",
+      "date": "2026-10-29",
+      "size": "Big update",
+      "summary": "77 new blocks with real stairs, doors and furniture, an inventory, zoomable maps, 10 save slots, full settings and sleeping in beds.",
+      "intro": "Building gets serious. There are dozens of new materials and shapes: stairs you walk up, doors that open as you walk in, glass, fences, ladders and furniture. A full inventory holds every block. The minimap and world map now zoom all the way from the whole land down to single tiles drawn in detail. Your worlds live in 10 save slots that are backed up and never lost, there's a full settings menu, and at night you can sleep in a bed and watch the night race by.",
+      "picture": "https://raw.githubusercontent.com/ChocolateWafer1/isom-releases/main/pictures/build-anything.jpg",
+      "download": "https://github.com/ChocolateWafer1/isom-releases/releases/download/v1.1.0/Isom-1.1.0-win.zip",
+      "bytes": 57918392,
+      "sha256": "5757beda0eb53784985b5abbb98bc6e8f01dd0a73ae78849874915d660d3128e",
+      "sections": [
+        {
+          "title": "New blocks",
+          "items": [
+            "77 of them|Oak, birch, pine and dark wood, red brick, marble, plaster, half-timber, tiles, coloured roofs, wool, glass, bookshelves and hay.",
+            "Shapes|Slabs, stairs, roof slopes, panes, iron bars, fences, walls, beams, ladders and rugs, all cut from the blocks they match.",
+            "Furniture|Tables, chairs, stools, beds, chests, barrels, crates, flower pots, torches and lanterns.",
+            "Doors|Walk into a door to open it; it shuts behind you. Village houses have real doors now.",
+            "Turn before placing|Press R to turn stairs, doors, chairs and logs; the preview shows how they'll sit.",
+            "Grass that fits|Grass you put down takes on the biome: snowy in the snow, swampy in a swamp."
+          ]
+        },
+        {
+          "title": "Building",
+          "items": [
+            "Inventory|Tab opens every block, with tabs and search. Everything is unlimited for now, and what you dig is counted.",
+            "Hotbar|Click a slot to pick it, or drag blocks onto it from the inventory.",
+            "Pick block|Middle-click any block in the world to hold it.",
+            "Undo|Ctrl+Z and Ctrl+Y undo and redo your building.",
+            "Stairs and ladders|Walk up stairs and slabs in half steps; ladders carry you up onto the wall."
+          ]
+        },
+        {
+          "title": "Maps",
+          "items": [
+            "Zoom all the way in|Scroll on the minimap or the world map to go from the whole land down to single tiles, with trees and roofs seen from above.",
+            "Markers|Right-click the world map (or press N) to drop a named, coloured marker.",
+            "Compass bar|A compass along the top shows where you're facing and where your markers are.",
+            "Roads, rivers and names|Drawn on both maps, along with everything you've built."
+          ]
+        },
+        {
+          "title": "Saves and settings",
+          "items": [
+            "10 save slots|Kept in Saved Games, backed up every 10 minutes and when you quit. Updating or removing Isom never touches them, and your old worlds move in by themselves.",
+            "Settings|Window and full screen, graphics, a sound mixer, rebindable controls, interface size, gameplay and accessibility options.",
+            "Sleep|Right-click a bed at night to sleep: the camera rises high above and the night races by until morning.",
+            "Little things|First-time tips, F1 hides the HUD, Ctrl+S saves, and the pause menu has Save and quit."
+          ]
+        }
+      ]
+    },
+    {
+      "version": "1.0.1",
+      "title": "Smooth Turns",
+      "date": "2026-10-29",
+      "size": "Small patch",
+      "summary": "Q and E now swing the camera round you like a real 3D camera, instead of sliding the picture.",
+      "intro": "Turning the camera used to spin a flat picture of the world and fade it into the next one, which made it hard to follow. Now the camera really orbits you: the land, the houses and the cliffs turn as solid blocks, trees and props stay standing, and the turn eases in and out before landing exactly on the next view.",
+      "picture": "https://raw.githubusercontent.com/ChocolateWafer1/isom-releases/main/pictures/smooth-turns.jpg",
+      "download": "https://github.com/ChocolateWafer1/isom-releases/releases/download/v1.0.1/Isom-1.0.1-win.zip",
+      "bytes": 57861077,
+      "sha256": "35b9e87089b9220871d9817da4114f467aaafb9d86f9137cece66b9f2adaf768",
+      "sections": [
+        {
+          "title": "Improved",
+          "items": [
+            "A real camera turn|Q and E orbit the camera around you to the next quarter turn. Houses, walls and cliffs turn as solid blocks, so you can always tell what you are looking at.",
+            "Everything comes along|Trees, flowers and your wanderer stand upright as the view swings, your wanderer turns to face the right way, and lamps and lit windows keep glowing in place.",
+            "No jumps|The turn eases in and out and settles exactly on the new view, with no flicker at either end."
+          ]
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "title": "First Steps",
+      "date": "2026-10-29",
+      "size": "Full game",
+      "summary": "The first version of Isom: a whole continent to wander, dig into and build on.",
+      "intro": "Isom is a wandering world drawn in isometric pixel art. Every seed makes a whole continent thousands of tiles across, with mountains worn down by rain, rivers that run to the sea, lakes, forests, deserts and snow, and little villages joined by winding roads. Walk anywhere, dig anything and build whatever you like.",
+      "picture": "https://raw.githubusercontent.com/ChocolateWafer1/isom-releases/main/pictures/first-steps.jpg",
+      "download": "https://github.com/ChocolateWafer1/isom-releases/releases/download/v1.0.0/Isom-1.0.0-win.zip",
+      "bytes": 57854988,
+      "sha256": "5ba3b77d8544c163183418a77be90ac9a42978b8c8f0c1d9009ccc45a49c4cd7",
+      "sections": [
+        {
+          "title": "The world",
+          "items": [
+            "A huge continent|Each seed makes a land 8192 tiles across: mountains, valleys, rivers, lakes and coast.",
+            "Thirteen kinds of land|Meadows, forests, taiga, jungle, swamp, desert, badlands, snowy peaks and more, set by rain and warmth.",
+            "Villages and roads|Little towns with houses and farms, joined by roads and bridges, plus old ruins to find."
+          ]
+        },
+        {
+          "title": "Exploring",
+          "items": [
+            "Day, night and weather|Sunrises, starry nights, rain, storms, snow and fog that roll across the land.",
+            "Turn the camera|Q and E swing the view round a quarter turn, and turning back puts it just as it was.",
+            "Map and minimap|M opens the whole continent, with every village named."
+          ]
+        },
+        {
+          "title": "Building",
+          "items": [
+            "Dig and place|Take the land apart block by block and build anything, with an outline showing exactly where each block goes.",
+            "See inside|Roofs and upper floors fade away when you step indoors, so building rooms and floors is easy.",
+            "Your worlds are saved|Every world keeps what you built, and updates never touch it."
+          ]
+        }
+      ]
+    }
+  ]
 }
